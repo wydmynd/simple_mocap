@@ -6,5 +6,6 @@ steps -
 5. open  example.py, update your computer IP , and asset number/s and run
 6. first 3 numbers are xyz in meters. notice the axes are Y-UP NOT Z-UP. there is a blue L on the floor to indicate X,Y,Z=0,0,0
 7. second array of 4 numbers - the angles given in Quaternions , you can use any python library to convert to roll,pitch,yaw
+8. if it works and then stops working, kill python and restart new instance
 
 
