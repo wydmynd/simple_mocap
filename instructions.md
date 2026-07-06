@@ -1,5 +1,5 @@
 steps - 
-1. connect to the mocap wifi network. SSID/password will be emailed.
+1. connect to the mocap wifi network. SSID/password will be emailed. you need to be in the actual lab (even if you can get reception in other areas, it is a different physical router)
 2. clone the repo https://github.com/AlonGil-Ad/simple_mocap
 3. make sure you know the NAME or ID of your "asssets" (rigid bodies)
 4. make sure the asset/s are in the tracked area (cameras) 
